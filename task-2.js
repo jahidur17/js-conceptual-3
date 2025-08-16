@@ -15,7 +15,7 @@ function sumOfArray(arr){
 //  console.log(result);
 
 
-
+// again solve this //
  function resultReport(marks) {
    if (!Array.isArray(marks)) {
      return "Invalid";
